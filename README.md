@@ -2,7 +2,7 @@
 
 Senior Back-end developer/DevOps Engineer
 
-[LinkedIn www.linkedin.com/in/alisina-bahadori](https://www.linkedin.com/in/alisina-bahadori/)
+[LinkedIn linkedin.com/in/alisina-bahadori](https://www.linkedin.com/in/alisina-bahadori/)
 
 [Github github.com/alisinabh](https://github.com/alisinabh)
 
