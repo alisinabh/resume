@@ -141,6 +141,15 @@ and Numero supports all of them with high performance thanks to Elixir macros.
 More than 3458 downloads.
 [package](https://hex.pm/packages/numero)
 
+### [elixir_agi](https://github.com/marcelog/elixir_agi) - A FastAGI server for Elixir.
+
+`contributor`
+
+Fixed many issues and improved the some of the code.
+
+More than 4176 downloads.
+[package](https://hex.pm/packages/elixir_agi)
+
 ### [elixir-jalaali](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation.
 
 `maintainer`
@@ -159,12 +168,6 @@ This project if a NIF interface to the libntru (A high performance NTRU implemen
 In this project I learnt how to write NIFs for Erlang with C and use them in Erlan/Elixir.
 
 [package](https://hex.pm/packages/ntru_elixir)
-
-### [elixir_agi](https://github.com/marcelog/elixir_agi) - A FastAGI server for Elixir.
-
-`contributor`
-
-Fixed many issues and improved the some of the code.
 
 
 ## Education
