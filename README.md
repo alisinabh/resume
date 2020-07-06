@@ -3,7 +3,9 @@
 Senior Back-end developer/DevOps Engineer
 
 [LinkedIn](https://www.linkedin.com/in/alisina-bahadori/)
+
 [Github](https://github.com/alisinabh)
+
 [alisina.bm@gmail.com](mailto:alisina.bm@gmail.com)
 
 ## Summary
@@ -118,6 +120,53 @@ Designed many websites using the following technologies.
  - jQuery and Ajax
  - Twitter Bootstrap
 
+## Open Source Projects
+
+### [ecto_translate](https://github.com/smeevil/ecto_translate) - Simple translator for Elixir Ecto.
+
+`co-maintainer`
+
+EctoTranslate is a library that helps with translating Ecto data. EctoTranslate can help you with returning translated values of your Ecto data attributes.
+
+More than 5800 downloads.
+[package](https://hex.pm/packages/ecto_translate)
+
+### [Numero](https://github.com/alisinabh/Numero) - Normalizer of numeric text in different languages.
+
+` maintainer`
+
+This library mainly normalizes non-english digits in a given text. There are more than 50 representation of digits in UTF-8
+and Numero supports all of them with high performance thanks to Elixir macros.
+
+More than 3458 downloads.
+[package](https://hex.pm/packages/numero)
+
+### [elixir-jalaali](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation.
+
+`maintainer`
+
+This is the first Jalaali calendar implementation for elixir compatible with elixir 1.6+
+
+More than 1231 downloads.
+[package](https://hex.pm/packages/jalaali)
+
+### [ntru_elixir](https://github.com/alisinabh/ntru_elixir) - POST quantum crypto (NTRU) for Elixir
+
+`maintainer`
+
+This project if a NIF interface to the libntru (A high performance NTRU implementation in C).
+
+In this project I learnt how to write NIFs for Erlang with C and use them in Erlan/Elixir.
+
+[package](https://hex.pm/packages/ntru_elixir)
+
+### [elixir_agi](https://github.com/marcelog/elixir_agi) - A FastAGI server for Elixir.
+
+`contributor`
+
+Fixed many issues and improved the some of the code.
+
+
 ## Education
 
 ### Computer Software Engineering - Islamic Azad University (2015-2019)
@@ -152,5 +201,6 @@ Thank you for reading my resume,
 Alisina Bahadori
 
 `UPDATED_AT: 2020-07-06`
-You can find latest version of this document at [https://github.com/alisinabh/resume/devops.md]
+
+You can find latest version of this document at [https://github.com/alisinabh/resume](https://github.com/alisinabh/resume)
  
