@@ -2,10 +2,8 @@
 
 Senior Back-end developer/DevOps Engineer
 
-[LinkedIn linkedin.com/in/alisina-bahadori](https://www.linkedin.com/in/alisina-bahadori/)
-
-[Github github.com/alisinabh](https://github.com/alisinabh)
-
+[LinkedIn linkedin.com/in/alisina-bahadori](https://www.linkedin.com/in/alisina-bahadori/)  
+[Github github.com/alisinabh](https://github.com/alisinabh)  
 [Email alisina.bm@gmail.com](mailto:alisina.bm@gmail.com)
 
 ## Summary
@@ -26,12 +24,10 @@ Since then, I've been continuously learning and perfecting my skills besides wor
 
 ### DevOps Engineer - [Around](https://www.aroundco.com/) (Ongoing 2018-ongoing)
 
-My responsibilities in Around were a bit complicated. Since the team was not mature enough when I joined.
-
+My responsibilities in Around were a bit complicated. Since the team was not mature enough when I joined.  
 I started in Around by developing a Highly scalable chat service using Elixir.
 This service was implemented using a new TCP/IP based protocol called Xigor (Successor of Zigor) by our team.
-This protocol uses minimal network resources and can maintain connection on low quality networks.
-
+This protocol uses minimal network resources and can maintain connection on low quality networks.  
 The second project was to deploy and maintain the infrastructure required for deployment of all the back-end
 services and help making their applications cloud friendly. (They were using PHP at the time)
 
@@ -57,8 +53,7 @@ Technologies used:
 ### DevOps Engineer - [Soroush Mehr](https://soroushmehr.com) (2 Years 2017-2019)
 
 Deployed a bare-metal kubernetes cluster (2018) in a private datacenter and migrated tens of applications to the new
-cloud environment.
-
+cloud environment.  
 Also done management and monitoring of the datacenter and the applications in both pre-cloud and post-cloud eras.
 
 Technologies used:
@@ -76,7 +71,7 @@ Technologies used:
 ### Back-end Developer - [Resaneh 24](https://www.resaneh24.com/) (3 Years 2015-2018)
 
 Developed the back-end of a social networking application called `ManMamanam`.
-The back-end had many challenges. 
+The back-end had many challenges.  
 One big challenge was a chat service which should have worked with very
 bad network conditions and encrypted. 
 
@@ -143,8 +138,8 @@ More than 5800 downloads.
 
 ` maintainer`
 
-This library mainly normalizes non-english digits in a given text. There are more than 50 representation of digits in UTF-8
-and Numero supports all of them with high performance thanks to Elixir macros.
+This library mainly normalizes non-english digits in a given text.  
+There are more than 50 representation of digits in UTF-8 and Numero supports all of them with high performance thanks to Elixir macros.
 
 More than 3458 downloads.
 [package](https://hex.pm/packages/numero)
@@ -221,10 +216,9 @@ Also there are many other aspects of tech that I am interested into.
  - Smart home with Home Assistant.
  - Writing utility applications for daily use.
 
-Thank you for reading my resume,
+Thank you for reading my resume,  
 Alisina Bahadori
 
-`UPDATED_AT: 2020-07-06`
-
+`UPDATED_AT: 2020-07-06`  
 You can find latest version of this document at [https://github.com/alisinabh/resume](https://github.com/alisinabh/resume)
  
