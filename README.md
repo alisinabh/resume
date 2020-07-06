@@ -2,11 +2,11 @@
 
 Senior Back-end developer/DevOps Engineer
 
-[LinkedIn](https://www.linkedin.com/in/alisina-bahadori/)
+[LinkedIn www.linkedin.com/in/alisina-bahadori](https://www.linkedin.com/in/alisina-bahadori/)
 
-[Github](https://github.com/alisinabh)
+[Github github.com/alisinabh](https://github.com/alisinabh)
 
-[alisina.bm@gmail.com](mailto:alisina.bm@gmail.com)
+[Email alisina.bm@gmail.com](mailto:alisina.bm@gmail.com)
 
 ## Summary
 
