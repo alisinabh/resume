@@ -14,9 +14,9 @@ Senior Back-end developer/DevOps Engineer
  - Living in Tehran, Iran.
  - Highly Experienced in Elixir/ErlangOTP.
  - Cloud Infrastructure enthusiast.
+ - Linux system administrator.
  - In love with free and open source software.
  - Former C# developer.
- - Linux system administrator.
  - Love clean and good code.
 
 Starting from age of 14 I've became interested in computer software development and started learning. 
@@ -29,6 +29,8 @@ Since then, I've been continuously learning and perfecting my skills besides wor
 My responsibilities in Around were a bit complicated. Since the team was not mature enough when I joined.
 
 I started in Around by developing a Highly scalable chat service using Elixir.
+This service was implemented using a new TCP/IP based protocol called Xigor (Successor of Zigor) by our team.
+This protocol uses minimal network resources and can maintain connection on low quality networks.
 
 The second project was to deploy and maintain the infrastructure required for deployment of all the back-end
 services and help making their applications cloud friendly. (They were using PHP at the time)
@@ -64,6 +66,7 @@ Technologies used:
  - Elixir (Rewrote many things and many new things)
  - Docker (Containerization of application)
  - Kubernetes (Cloud orchestrator)
+ - Ceph (Distributed storage for containers in kubernetes)
  - Debian (For the stability)
  - Windows server 2012, 2016 and 2019 (Legacy applications)
  - Zabbix (Monitoring)
@@ -73,8 +76,11 @@ Technologies used:
 ### Back-end Developer - [Resaneh 24](https://www.resaneh24.com/) (3 Years 2015-2018)
 
 Developed the back-end of a social networking application called `ManMamanam`.
-The back-end had many challenges. One big challenge was a chat service which should have worked with very
-bad network conditions and encrypted. So we chose to design a new protocol over TCP/IP which we called Zigor.
+The back-end had many challenges. 
+One big challenge was a chat service which should have worked with very
+bad network conditions and encrypted. 
+
+So we chose to design a new protocol over TCP/IP which we called Zigor.
 
 This protocol used very low network resources and performed well in bad connectivity scenarios where
 a steady TLS connection was not possible.
@@ -126,7 +132,9 @@ Designed many websites using the following technologies.
 
 `co-maintainer`
 
-EctoTranslate is a library that helps with translating Ecto data. EctoTranslate can help you with returning translated values of your Ecto data attributes.
+EctoTranslate is a library that helps with translating Ecto data.
+
+EctoTranslate can help you with returning translated values of your Ecto data attributes.
 
 More than 5800 downloads.
 [package](https://hex.pm/packages/ecto_translate)
@@ -192,13 +200,26 @@ I mainly concentrate on back-end development and infrastructure management. Here
  - Kubernetes: Help with easier deployment, Higher availability and scaling like a breeze.
  - Rust: When there is a low-level or a computational workload.
  - GNU + Linux: Administration of GNU + Linux based systems.
+ - Nginx config: Setup and configure nginx for load handling/balancing.
 
 Also there are many other aspects of tech that I am interested into.
 
- - 3D Priting: Built a 3D printer machine (prusa i3) and experienced in printing.
+ - 3D Printing/CNC Machines: Built a 3D printer machine (prusa i3) and experienced in printing.
  - Embedded systems: I really like tiny computers. RaspberriPi, ESP8266, ESP32, NanoPi NEO2. Done many projects with them.
  - VoIP: As a former VoIP engineer I am experienced with high call loads, codecs and transcoding optimization using asterisk.
  - Building PCs: Built lots of normal and gaming PCs for my co-workers and some other costumers.
+
+### Languages
+
+ - English `Conversational`
+ - Persian `Native`
+
+## Hobbies
+
+ - Playing tennis.
+ - Embedded systems and IoT.
+ - Smart home with Home Assistant.
+ - Writing utility applications for daily use.
 
 Thank you for reading my resume,
 Alisina Bahadori
